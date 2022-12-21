@@ -8,6 +8,6 @@
     <h1>Hi, there (updated by wonho)</h1>
     <div>My-Third-Project</div>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 3.0</h3>
+    <h3>Version: 1.0</h3>
 </body>
 </html>
